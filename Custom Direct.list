@@ -9,6 +9,7 @@ DOMAIN-SUFFIX,infinitynewtab.com
 
 # 域名关键字匹配
 DOMAIN-KEYWORD,chimelong
+DOMAIN-KEYWORD,lin41411
 
 # IP段匹配
 IP-CIDR,219.146.1.66/32,no-resolve
