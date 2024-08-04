@@ -7,6 +7,8 @@ DOMAIN-SUFFIX,lanzov.com
 DOMAIN-SUFFIX,hao123.com
 DOMAIN-SUFFIX,infinitynewtab.com
 DOMAIN-SUFFIX,volcengine.com
+DOMAIN-SUFFIX,netease.im
+DOMAIN-SUFFIX,51jobapp.com
 
 # 域名关键字匹配
 DOMAIN-KEYWORD,chimelong
