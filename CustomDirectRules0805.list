@@ -10,10 +10,13 @@ DOMAIN-SUFFIX,volcengine.com
 DOMAIN-SUFFIX,netease.im
 DOMAIN-SUFFIX,51jobapp.com
 DOMAIN-SUFFIX,idmzj.com
+DOMAIN-SUFFIX,gzzydb.com
 
 # 域名关键字匹配
 DOMAIN-KEYWORD,chimelong
 DOMAIN-KEYWORD,lin41411
+DOMAIN-KEYWORD,gov
+DOMAIN-KEYWORD,weixin
 
 # IP段匹配
 IP-CIDR,219.146.1.66/32,no-resolve
